@@ -1,0 +1,26 @@
+// vim:ts=4:sw=4:et
+{
+    "border": "pixel",
+    "current_border_width": 1,
+    "floating": "auto_off",
+    "geometry": {
+       "height": 600,
+       "width": 1172,
+       "x": 0,
+       "y": 0
+    },
+    "marks": [],
+    "name": "Terminal - ",
+    "percent": 1,
+    "swallows": [
+       {
+       // "class": "^Xfce4\\-terminal$",
+       // "instance": "^xfce4\\-terminal$",
+       // "machine": "^T450s$",
+       // "title": "^Terminal\\ \\-\\ $",
+       // "window_role": "^xfce4\\-terminal\\-1789217659\\-3187115482$"
+       }
+    ],
+    "type": "con"
+}
+
